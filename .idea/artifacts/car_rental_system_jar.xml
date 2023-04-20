@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="car_rental_system:jar">
+    <output-path>$PROJECT_DIR$/../../linux与java学习视频与文档/jar文件包</output-path>
+    <root id="archive" name="car_rental_system.jar">
+      <element id="module-output" name="car_rental_system" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../linux与java学习视频与文档/mysql-connector-java-5.1.49.jar" path-in-jar="/" />
+      <element id="library" level="project" name="mysql-connector-java-5.1.49" />
+    </root>
+  </artifact>
+</component>
